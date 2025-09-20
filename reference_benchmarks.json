@@ -1,0 +1,29 @@
+[
+  {
+    "model": "Pixel 8 Pro",
+    "year": 2023,
+    "cpu_score": 4200,
+    "storage_write_mb_s": 1500,
+    "storage_read_mb_s": 2000,
+    "gpu_fps": 140,
+    "mem_bw_mb_s": 25000
+  },
+  {
+    "model": "Galaxy S24",
+    "year": 2024,
+    "cpu_score": 4600,
+    "storage_write_mb_s": 1800,
+    "storage_read_mb_s": 2400,
+    "gpu_fps": 160,
+    "mem_bw_mb_s": 28000
+  },
+  {
+    "model": "OnePlus 12",
+    "year": 2024,
+    "cpu_score": 4900,
+    "storage_write_mb_s": 2000,
+    "storage_read_mb_s": 2600,
+    "gpu_fps": 170,
+    "mem_bw_mb_s": 30000
+  }
+]
